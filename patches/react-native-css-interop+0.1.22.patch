@@ -48,3 +48,4 @@ index fb8e8c8..8b22477 100644
 + */
    const { default: Animated } =
      require("react-native-reanimated") as typeof import("react-native-reanimated");
+ 
